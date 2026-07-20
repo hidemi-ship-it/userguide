@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: hidemi-ship-it.github.io/userguide
+  baseUrl: "hidemi-ship-it.github.io/userguide"
   ignorePatterns:
     - private
     - templates
